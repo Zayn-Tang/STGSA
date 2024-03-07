@@ -1,0 +1,17 @@
+block_per_layers: 2
+layers_per_model: 3
+
+input_dim: 2
+out_dim: 2
+emb_dim: 32
+history: 12
+
+pool_kernel: 3
+
+
+
+
+
+
+
+
